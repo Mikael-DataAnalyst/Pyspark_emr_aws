@@ -10,6 +10,7 @@ Pour une entreprise ayant besoin d'analyser un nombre important d'images
 
 ## Informations générales
 ![Big Data](https://github.com/Mikael-DataAnalyst/Pyspark_emr_aws/blob/main/images/big_data.png?raw=true)
+
 Objectif : Mettre en place une architecture Big Data avec EMR, S3, IAM pour déployer un script Pyspark
 
 Les données initiales sont disponible sur [Kaggle](https://www.kaggle.com/datasets/moltean/fruits)
@@ -63,6 +64,6 @@ Permet de louer des instances EC2 préinstallées :
 Permet de se connecter directement au stockage S3
 
 ## Notebooks
-Le notebook pour sampler les données : ![sample](https://github.com/Mikael-DataAnalyst/Pyspark_emr_aws/blob/main/sample_folder.ipynb)
-Un notebook Colab détaillé de toutes les fonctions en pas à pas : ![Notebook Colab](https://github.com/Mikael-DataAnalyst/Pyspark_emr_aws/blob/main/notebook_colab.ipynb)
-Le notebook déployé sur EMR : ![Notebook EMR](https://github.com/Mikael-DataAnalyst/Pyspark_emr_aws/blob/main/notebook_emr.ipynb)
+* Le notebook pour sampler les données : [Sample](https://github.com/Mikael-DataAnalyst/Pyspark_emr_aws/blob/main/sample_folder.ipynb)
+* Un notebook Colab détaillé de toutes les fonctions en pas à pas : [Notebook Colab](https://github.com/Mikael-DataAnalyst/Pyspark_emr_aws/blob/main/notebook_colab.ipynb)
+* Le notebook déployé sur EMR : [Notebook EMR](https://github.com/Mikael-DataAnalyst/Pyspark_emr_aws/blob/main/notebook_emr.ipynb)
