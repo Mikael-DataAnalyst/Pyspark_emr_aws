@@ -9,19 +9,22 @@ Pour une entreprise ayant besoin d'analyser
 6. [Notebooks](#notebooks)
 
 ## Informations générales
-
 ![Big Data](https://github.com/Mikael-DataAnalyst/Pyspark_emr_aws/blob/main/images/big_data.png?raw=true)
 
 ## Apache Spark
+![spark](https://github.com/Mikael-DataAnalyst/Pyspark_emr_aws/blob/main/images/pyspark.png?raw=true)
 
 
 ## AWS
+![aws](https://github.com/Mikael-DataAnalyst/Pyspark_emr_aws/blob/main/images/aws.jpg?raw=true)
 
 
 ## Stockage S3
+![s3](https://github.com/Mikael-DataAnalyst/Pyspark_emr_aws/blob/main/images/s3.png?raw=true)
 
 
 ## EMR
+![emr](https://github.com/Mikael-DataAnalyst/Pyspark_emr_aws/blob/main/images/emr.png?raw=true)
 
 
 ## Notebooks
