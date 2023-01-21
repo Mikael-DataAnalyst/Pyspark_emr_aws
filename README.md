@@ -6,10 +6,22 @@ Pour une entreprise ayant besoin d'analyser
 3. [AWS](#aws)
 4. [Stockage S3](#stockage-s3)
 5. [EMR](#emr)
-6. [Notebook](#notebook)
+6. [Notebooks](#notebooks)
 
 ## Informations générales
 
+![alt text](https://github.com/Mikael-DataAnalyst/[reponame]/blob/main/images/big_data.png?raw=true)
 
 ## Apache Spark
 
+
+## AWS
+
+
+## Stockage S3
+
+
+## EMR
+
+
+## Notebooks
