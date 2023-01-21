@@ -29,10 +29,15 @@ PySpark est une interface pour Apache Spark en Python. Alternative à la librair
 ## AWS
 ![aws](https://github.com/Mikael-DataAnalyst/Pyspark_emr_aws/blob/main/images/aws.jpg?raw=true)
 AWS a été choisi pour ce projet car il offre une vaste gamme de services de calcul, de stockage, de machine Learning.
-Il est un des plus grand fournisseur de services cloud actuellement
-Ses avantages :
-    - La simplicité
-    - La flexibilité
+Il est un des plus grand fournisseur de services cloud actuellement.
+Ses avantages :  
+    * La simplicité
+    * La flexibilité
+    * Stockage et sauvegarde
+    * Evolutivité et hautes performances
+    * Outils de développement
+    * Assistance et documentation
+    * Tarification flexible
 
 ## Stockage S3
 ![s3](https://github.com/Mikael-DataAnalyst/Pyspark_emr_aws/blob/main/images/s3.png?raw=true)
