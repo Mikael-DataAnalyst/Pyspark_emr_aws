@@ -10,7 +10,7 @@ Pour une entreprise ayant besoin d'analyser
 
 ## Informations générales
 
-![alt text](https://github.com/Mikael-DataAnalyst/[reponame]/blob/main/images/big_data.png?raw=true)
+![Big Data](https://github.com/Mikael-DataAnalyst/Pyspark_emr_aws/blob/main/images/big_data.png?raw=true)
 
 ## Apache Spark
 
