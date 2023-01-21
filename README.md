@@ -27,7 +27,7 @@ PySpark est une interface pour Apache Spark en Python. Alternative à la librair
 
 
 ## AWS
-![aws](https://github.com/Mikael-DataAnalyst/Pyspark_emr_aws/blob/main/images/aws.jpg?raw=true)
+![aws](https://github.com/Mikael-DataAnalyst/Pyspark_emr_aws/blob/main/images/aws.jpg?raw=true)  
 AWS a été choisi pour ce projet car il offre une vaste gamme de services de calcul, de stockage, de machine Learning.  
 Il est un des plus grand fournisseur de services cloud actuellement.  
 Ses avantages :  
@@ -41,10 +41,28 @@ Ses avantages :
 
 ## Stockage S3
 ![s3](https://github.com/Mikael-DataAnalyst/Pyspark_emr_aws/blob/main/images/s3.png?raw=true)
+* Disponibilité du service 
+Amazon S3 est conçu pour offrir 99.99 % de durabilité
+* Versionning
+Permet de stocker plusieurs versions d’un même objet, restaurer un fichier, ou récupérer une version antérieure.
+* Sécurité
+De nombreuses fonctionnalité de chiffrement des données et de gestion permettent d’empêcher toute intrusion dans l’environnement S3
+* Economique :
+Les données peuvent être organisées dans différentes classes de stockage, en fonction de la fréquence à laquelle l’utilisateur a besoin d’y accéder.
 
 
 ## EMR
-![emr](https://github.com/Mikael-DataAnalyst/Pyspark_emr_aws/blob/main/images/emr.png?raw=true)
+![emr](https://github.com/Mikael-DataAnalyst/Pyspark_emr_aws/blob/main/images/emr.png?raw=true)  
 
+Solution PAAS (Platform As A Service)  
+Permet de louer des instances EC2 préinstallées :  
+* Spark
+* Tensorflow
+* JupyterHub
+* Librairies additionnels avec un boostraping (voir bootstrap-emr.sh)
+Permet de se connecter directement au stockage S3
 
 ## Notebooks
+Le notebook pour sampler les données : ![sample](https://github.com/Mikael-DataAnalyst/Pyspark_emr_aws/blob/main/sample_folder.ipynb)
+Un notebook Colab détaillé de toutes les fonctions en pas à pas : ![Notebook Colab](https://github.com/Mikael-DataAnalyst/Pyspark_emr_aws/blob/main/notebook_colab.ipynb)
+Le notebook déployé sur EMR : ![Notebook EMR](https://github.com/Mikael-DataAnalyst/Pyspark_emr_aws/blob/main/notebook_emr.ipynb)
